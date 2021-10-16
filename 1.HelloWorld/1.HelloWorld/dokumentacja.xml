@@ -4,5 +4,13 @@
         <name>Program</name>
     </assembly>
     <members>
+        <member name="T:_1.HelloWorld.Program">
+            <summary>
+            Główna klasa apliakcji
+            </summary>
+        </member>
+        <member name="M:_1.HelloWorld.Program.Main(System.String[])">
+            <remarks>Metoda startowa aplikacji</remarks>
+        </member>
     </members>
 </doc>

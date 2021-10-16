@@ -10,7 +10,7 @@ namespace _1.HelloWorld
         ///<remarks>Metoda startowa aplikacji</remarks>
         static void Main(string[] args)
         {
-            ///<remarks>xd</remarks>
+            
             Console.WriteLine("Hellow World!");
         }
     }
