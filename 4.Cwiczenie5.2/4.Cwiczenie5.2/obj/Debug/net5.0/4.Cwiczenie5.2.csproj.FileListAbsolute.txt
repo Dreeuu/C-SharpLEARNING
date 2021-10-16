@@ -1,0 +1,16 @@
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\bin\Debug\net5.0\4.Cwiczenie5.2.exe
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\bin\Debug\net5.0\4.Cwiczenie5.2.deps.json
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\bin\Debug\net5.0\4.Cwiczenie5.2.runtimeconfig.json
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\bin\Debug\net5.0\4.Cwiczenie5.2.runtimeconfig.dev.json
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\bin\Debug\net5.0\4.Cwiczenie5.2.dll
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\bin\Debug\net5.0\ref\4.Cwiczenie5.2.dll
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\bin\Debug\net5.0\4.Cwiczenie5.2.pdb
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\obj\Debug\net5.0\4.Cwiczenie5.2.csproj.AssemblyReference.cache
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\obj\Debug\net5.0\4.Cwiczenie5.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\obj\Debug\net5.0\4.Cwiczenie5.2.AssemblyInfoInputs.cache
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\obj\Debug\net5.0\4.Cwiczenie5.2.AssemblyInfo.cs
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\obj\Debug\net5.0\4.Cwiczenie5.2.csproj.CoreCompileInputs.cache
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\obj\Debug\net5.0\4.Cwiczenie5.2.dll
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\obj\Debug\net5.0\ref\4.Cwiczenie5.2.dll
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\obj\Debug\net5.0\4.Cwiczenie5.2.pdb
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\4.Cwiczenie5.2\4.Cwiczenie5.2\obj\Debug\net5.0\4.Cwiczenie5.2.genruntimeconfig.cache
