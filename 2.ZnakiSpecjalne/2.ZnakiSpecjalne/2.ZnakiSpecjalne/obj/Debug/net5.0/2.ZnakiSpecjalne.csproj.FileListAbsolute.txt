@@ -1,0 +1,16 @@
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\bin\Debug\net5.0\2.ZnakiSpecjalne.exe
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\bin\Debug\net5.0\2.ZnakiSpecjalne.deps.json
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\bin\Debug\net5.0\2.ZnakiSpecjalne.runtimeconfig.json
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\bin\Debug\net5.0\2.ZnakiSpecjalne.runtimeconfig.dev.json
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\bin\Debug\net5.0\2.ZnakiSpecjalne.dll
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\bin\Debug\net5.0\ref\2.ZnakiSpecjalne.dll
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\bin\Debug\net5.0\2.ZnakiSpecjalne.pdb
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\obj\Debug\net5.0\2.ZnakiSpecjalne.csproj.AssemblyReference.cache
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\obj\Debug\net5.0\2.ZnakiSpecjalne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\obj\Debug\net5.0\2.ZnakiSpecjalne.AssemblyInfoInputs.cache
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\obj\Debug\net5.0\2.ZnakiSpecjalne.AssemblyInfo.cs
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\obj\Debug\net5.0\2.ZnakiSpecjalne.csproj.CoreCompileInputs.cache
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\obj\Debug\net5.0\2.ZnakiSpecjalne.dll
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\obj\Debug\net5.0\ref\2.ZnakiSpecjalne.dll
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\obj\Debug\net5.0\2.ZnakiSpecjalne.pdb
+C:\Users\grzes\Desktop\c#programs\C-SharpLEARNING\2.ZnakiSpecjalne\2.ZnakiSpecjalne\2.ZnakiSpecjalne\obj\Debug\net5.0\2.ZnakiSpecjalne.genruntimeconfig.cache
