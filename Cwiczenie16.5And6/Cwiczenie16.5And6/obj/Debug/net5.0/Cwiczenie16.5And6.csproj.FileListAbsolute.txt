@@ -1,0 +1,16 @@
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\bin\Debug\net5.0\Cwiczenie16.5And6.exe
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\bin\Debug\net5.0\Cwiczenie16.5And6.deps.json
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\bin\Debug\net5.0\Cwiczenie16.5And6.runtimeconfig.json
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\bin\Debug\net5.0\Cwiczenie16.5And6.runtimeconfig.dev.json
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\bin\Debug\net5.0\Cwiczenie16.5And6.dll
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\bin\Debug\net5.0\ref\Cwiczenie16.5And6.dll
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\bin\Debug\net5.0\Cwiczenie16.5And6.pdb
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\obj\Debug\net5.0\Cwiczenie16.5And6.csproj.AssemblyReference.cache
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\obj\Debug\net5.0\Cwiczenie16.5And6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\obj\Debug\net5.0\Cwiczenie16.5And6.AssemblyInfoInputs.cache
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\obj\Debug\net5.0\Cwiczenie16.5And6.AssemblyInfo.cs
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\obj\Debug\net5.0\Cwiczenie16.5And6.csproj.CoreCompileInputs.cache
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\obj\Debug\net5.0\Cwiczenie16.5And6.dll
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\obj\Debug\net5.0\ref\Cwiczenie16.5And6.dll
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\obj\Debug\net5.0\Cwiczenie16.5And6.pdb
+C:\Users\grzes\source\repos\C-SharpLEARNING\Cwiczenie16.5And6\Cwiczenie16.5And6\obj\Debug\net5.0\Cwiczenie16.5And6.genruntimeconfig.cache
